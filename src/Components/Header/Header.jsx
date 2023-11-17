@@ -12,7 +12,7 @@ const Header=()=>{
             justifyContent={"space-around"} bg={'rgb(134, 141, 127)'}
             alignItems={'center'}>
                 <Box display="flex"  flexDirection="row" alignItems={'center'} justifyContent={"space-around"} 
-                ><Heading as='h1' fontFamily={'Rockwell'} fontSize={{base:'16',sm:'20',md:'36'}} textColor={'white'}><Link  _hover={{color:'rgba(253, 240, 123, 0.986)', textDecoration:'none'}}><FontAwesomeIcon icon={faArrowUp91} /> Contador Responsive <FontAwesomeIcon icon={faArrowDown91} /></Link></Heading></Box>
+                ><Heading as='h1' fontFamily={'Roboto Condensed'} fontSize={{base:'16',sm:'20',md:'36'}} textColor={'white'}><Link  _hover={{color:'rgba(253, 240, 123, 0.986)', textDecoration:'none'}}><FontAwesomeIcon icon={faArrowUp91} /> Contador Responsive <FontAwesomeIcon icon={faArrowDown91} /></Link></Heading></Box>
                  
         </Container>
     );   
