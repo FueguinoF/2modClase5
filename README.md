@@ -26,7 +26,7 @@ $ cd ../ruta/al/archivo
 $ npm install
 $ npm run dev
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+Cuando el comando se completé clickeá el link en consola y listo!
 ## Consultas - Sugerencias
 ***
 Si te gustó, compartilo.
@@ -35,8 +35,8 @@ Si te gustó, compartilo.
 > Todo aporte es bienvenido
 
 #### Colaboradores
-@Pablo Rito - https://github.com/pablorito14
-@Rodrigo Avila -https://github.com/RodriiG28 
+>@Pablo Rito - https://github.com/pablorito14
+>@Rodrigo Avila -https://github.com/RodriiG28 
 ## FAQs
 ***
 Preguntas frecuentes:
@@ -52,7 +52,7 @@ Seguí estos pasos:
 3. **Solo se puede usar el mouse?**
 *No, podes utilizar las flechas del teclado también*
 4. **Como hago?**
- Flecha Arriba  -   Suma +1  ▲  
- Flecha Derecha -  Suma rápida ►
- Flecha Abajo -   Resta - 1   ▼
- Flecha Izquieda -   Resta rápida ◄
+ >Flecha Arriba  -   Suma +1  ▲  
+ >Flecha Derecha -  Suma rápida ►
+ >Flecha Abajo -   Resta - 1   ▼
+ >Flecha Izquieda -   Resta rápida ◄
