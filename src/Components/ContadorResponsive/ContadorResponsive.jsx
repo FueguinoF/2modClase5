@@ -11,15 +11,15 @@ const ContadorResponsive=()=>{
     const [contador, setContador] = useState(0);
 
      
-     const [mostrarIntro, setMostrarIntro] = useState(true);  //mensaje inicial visible
+    const [mostrarIntro, setMostrarIntro] = useState(true);  //mensaje inicial visible
     
-        useEffect(() => {       // Desaparece luego de 8 seg.
+    useEffect(() => {       // Desaparece luego de 6 seg.
         const timeoutId = setTimeout(() => {
             setMostrarIntro(false);
         }, 6000);
 
-        return () => clearTimeout(timeoutId);  
-        }, []);
+    return () => clearTimeout(timeoutId);  
+    }, []);
 
     
 
