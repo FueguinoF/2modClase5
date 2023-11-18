@@ -1,7 +1,7 @@
 ## Contenido
 1. [Información general](#general-info)
 2. [Tecnologías](#technologies)
-3. [Installation](#installation)
+3. [Instalación](#installation)
 4. [Colaboraciones](#collaboration)
 5. [FAQs](#faqs)
 ### Información general
