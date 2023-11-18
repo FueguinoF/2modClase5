@@ -13,8 +13,9 @@ El proyecto alcanzo un estado de entrega pero se tienen mejoras en mente para fu
 ## 
 ***
 ### Tecnologías utilizadas
-* [React Vite ](https://example.com): Version 18.2.0
-* [Chakra UI](https://example.com): Version 2.8.2
+* [React](https://es.react.dev/): Version 18.2.0
+* [Vite](https://vitejs.dev/guide/): Version 18.2.0
+* [Chakra UI](https://chakra-ui.com/): Version 2.8.2
 * [FontAwesome Icons](https://fontawesome.com/icons): Version 6.4.2
 * [Framer Motion](https://www.framer.com/motion/): Version 10.16.5
 ## Instalación
