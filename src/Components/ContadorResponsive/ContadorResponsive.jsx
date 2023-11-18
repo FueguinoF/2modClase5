@@ -54,7 +54,7 @@ const ContadorResponsive=()=>{
                   
     return(				
         <Container display={'flex'} flexDirection={'column'} alignItems={"center"} variant='elevated'
-             maxH={'700'} minH={'200'} maxW={{base:'300' ,md:'350'}}>
+             maxH={'700'} minH={'500'} maxW={{base:'300' ,md:'350'}}>
             <Container display={'flex'} flexDirection={'column'} alignItems={"center"} fontFamily={'"seven segment" , sans-serif'} minH={'100'}>
             <motion.div className="box">
                 <Text fontSize={{base:'150', sm:'160', md:'200'}} >{contador}</Text></motion.div>
@@ -79,13 +79,14 @@ const ContadorResponsive=()=>{
                         transition={{ type: "spring", stiffness: 400, damping: 10 }} >
                        <Button w={'full'}  onClick={sumar} padding={'10px 25px'} borderRadius={'10px'} bg={'white'} outlineOffset={'2'} outlineColor={'green'} color={'green'} _hover={{bg:'rgb(139, 224, 53)', color:'white'}}><FontAwesomeIcon icon={faSquarePlus} fontSize={'35'}/></Button>
                        </motion.div></GridItem>
-                </Grid> 
+                </Grid>
                 {mostrarIntro && (
-                    <Text mb="2" fontFamily={'Roboto Condensed'} fontSize={'14'} mt={'5'}>
+                    <Text  fontFamily={'Roboto Condensed'} fontSize={'13'} mt={'4'} display={{base:'none', lg:'block'}}>
                         Presione <FontAwesomeIcon icon={faSquareCaretUp} /> / <FontAwesomeIcon icon={faSquareCaretDown} /> para incremento/decremento paso a paso.
                         Mantenga presionado <FontAwesomeIcon icon={faSquareCaretRight} beatFade /> / <FontAwesomeIcon icon={faSquareCaretLeft} beatFade /> para incremento/decremento rápido
                     </Text>
-                    )}  
+                    )}
+                
             </Container>
             
 

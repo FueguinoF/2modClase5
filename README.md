@@ -1,8 +1,58 @@
-# React + Vite
+## Contenido
+1. [Información general](#general-info)
+2. [Tecnologías](#technologies)
+3. [Installation](#installation)
+4. [Colaboraciones](#collaboration)
+5. [FAQs](#faqs)
+### Información general
+***
+El proyecto consta de un contador responsive que puede incrementar o decrementar su valor. Se opera mediante mouse o flechas de dirección en PC o por tacto en mobile.
+El proyecto alcanzo un estado de entrega pero se tienen mejoras en mente para futuras versiones.
+### Apariencia
+![Captura10](https://i.imgur.com/tntsclR.png)
+## 
+***
+### Tecnologías utilizadas
+* [React Vite ](https://example.com): Version 18.2.0
+* [Chakra UI](https://example.com): Version 2.8.2
+* [FontAwesome Icons](https://fontawesome.com/icons): Version 6.4.2
+* [Framer Motion](https://www.framer.com/motion/): Version 10.16.5
+## Instalación
+***
+Siga estos sencillos pasos para instalar. 
+```
+$ git clone https://github.com/FueguinoF/2modClase5.git
+$ cd ../ruta/al/archivo
+$ npm install
+$ npm run dev
+```
+Side information: To use the application in a special environment use ```lorem ipsum``` to start
+## Consultas - Sugerencias
+***
+Si te gustó, compartilo.
+> Si queres colaborar dejame un mensaje. 
+> 
+> Todo aporte es bienvenido
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### Colaboradores
+@Pablo Rito - https://github.com/pablorito14
+@Rodrigo Avila -https://github.com/RodriiG28 
+## FAQs
+***
+Preguntas frecuentes:
 
-Currently, two official plugins are available:
+1. **Puedo contar ovejas con esto?**
+_Si, esta probado para ganadería e insomnio_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Como lo uso?** 
+Seguí estos pasos:
+* Clickeá el botón de incrementar 
+* Incrementa o decrementá tanto como gustes
+* Disfrutá ;)
+3. **Solo se puede usar el mouse?**
+*No, podes utilizar las flechas del teclado también*
+4. **Como hago?**
+ Flecha Arriba  -   Suma +1  ▲  
+ Flecha Derecha -  Suma rápida ►
+ Flecha Abajo -   Resta - 1   ▼
+ Flecha Izquieda -   Resta rápida ◄
