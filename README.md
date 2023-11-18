@@ -8,6 +8,7 @@
 ***
 El proyecto consta de un contador responsive que puede incrementar o decrementar su valor. Se opera mediante mouse o flechas de dirección en PC o por tacto en mobile.
 El proyecto alcanzo un estado de entrega pero se tienen mejoras en mente para futuras versiones.
+***
 ####Deploy
 [Contador Responsive](https://fueguinof.github.io/2modClase5/)
 ### Apariencia
