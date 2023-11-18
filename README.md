@@ -57,7 +57,7 @@ Seguí estos pasos:
 3. **Solo se puede usar el mouse?**
 *No, podes utilizar las flechas del teclado también*
 4. **Como hago?**
- >Flecha Arriba  -   Suma +1  ▲  
- >Flecha Derecha -  Suma rápida ►
- >Flecha Abajo -   Resta - 1   ▼
- >Flecha Izquieda -   Resta rápida ◄
+ * Flecha Arriba ▲ ------------ ▲ Suma +1    
+ * Flecha Derecha ► --------- ► Suma rápida 
+ * Flecha Abajo ▼ ------------- ▼ Resta - 1   
+ * Flecha Izquieda ◄ --------- ◄ Resta rápida 
